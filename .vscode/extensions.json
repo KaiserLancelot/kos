@@ -1,7 +1,9 @@
 {
   "recommendations": [
+    "vadimcn.vscode-lldb",
     "serayuzgur.crates",
     "tamasfe.even-better-toml",
+    "swellaby.vscode-rust-test-adapter",
     "matklad.rust-analyzer"
   ]
 }
